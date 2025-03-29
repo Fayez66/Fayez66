@@ -1,7 +1,7 @@
-# Hi there, I'm Fayez!
 
-##  About Me
-I'm a **Data Analyst** passionate about transforming raw data into meaningful insights. With a background in **Computer Science and Engineering**, I specialize in extracting valuable information through **SQL, Python, Power BI, and Excel**. My goal is to leverage data-driven decision-making to drive business success.
+# <p align="center">Hi there, I'm [Fayez](https://www.linkedin.com/in/fayez-elashmony-812a56351). 👋</p>
+
+ **About Me** : I'm a **Data Analyst** passionate about transforming raw data into meaningful insights. With a background in **Computer Science and Engineering**, I specialize in extracting valuable information through **SQL, Python, Power BI, and Excel**. My goal is to leverage data-driven decision-making to drive business success.
 
 ##  What I Do
 -  **Data Visualization:** Creating interactive dashboards using **Power BI**.
