@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Fayez!
+
+##  About Me
+I'm a **Data Analyst** passionate about transforming raw data into meaningful insights. With a background in **Computer Science and Engineering**, I specialize in extracting valuable information through **SQL, Python, Power BI, and Excel**. My goal is to leverage data-driven decision-making to drive business success.
+
+##  What I Do
+-  **Data Visualization:** Creating interactive dashboards using **Power BI**.
+-  **Data Cleaning & Preprocessing:** Using **SQL & Python** to refine messy data.
+-  **Business Insights & Reporting:** Identifying trends and actionable insights.
+-  **Machine Learning (Exploring):** Working towards predictive analytics for better forecasting.
 
 <!--
-**Fayez66/Fayez66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+##  Skills & Tools
+- **Languages:** Python, SQL
+- **Visualization Tools:** Power BI, Excel
+- **Databases:** MySQL, PostgreSQL
+- **Other:** Data Cleaning, ETL, Business Intelligence
 -->
+
+##  Let's Connect!
+- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fayez-elashmony-812a56351)
+-  Email: eng.fayez66@gmail.com
